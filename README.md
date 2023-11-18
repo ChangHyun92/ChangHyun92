@@ -62,23 +62,22 @@ Here are some ideas to get you started:
   ## ChangHyun Kim
 
   <!--   <img align="right" height="100" src="https://user-images.githubusercontent.com/75469131/213887495-9953614d-3516-4781-98a2-17908e379c4f.gif" />-->
-  
-  <a href="https://kimchanghyun.tistory.com"><img src="https://img.shields.io/badge/yuni.log-3DDC84?style=for-the-badge&logo=Velog&logoColor=white"/></a> 
+  <a href="https://kimchanghyun.tistory.com"><img src="https://img.shields.io/badge/changhyun.log-3DDC84?style=for-the-badge&logo=tistory&logoColor=white"/></a> 
   <a href="https://early-flock-0c8.notion.site/Yuni-Eom-933231dac8f946b9b4ce62bac883b5fa?pvs=4">
   <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=notion&logoColor=black"/></a>
- <a href="https://github.com/changhyun92"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/></a> 
-<img style="display: inline-block;" vertical-align= "-4000px;" width="100" src="https://user-images.githubusercontent.com/130543414/283773842-aab8112f-e24a-4f42-86ea-04df4ac2926b.gif" />
- 
- 
-  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="bottom" width="100" src="https://user-images.githubusercontent.com/130543414/283773842-aab8112f-e24a-4f42-86ea-04df4ac2926b.gif"/>
+
   ---
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>  
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-F05032?style=flat&logo=postgre&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logoGitHub&logoColor=white" />
+
 
 <!--
  <a href="https://www.instagram.com/dev_seondal/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a> <a href="mailto:sseondal@gmail.com"><img src="https://img.shields.io/badge/mail to me-557AF2?style=plastic&logo=Gmail&logoColor=white"/></a>
