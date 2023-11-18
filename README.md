@@ -1,28 +1,4 @@
-<!--
-<img src="https://capsule-render.vercel.app/api?type=waving&color=002B5B&height=300&section=header&text=Yuni&nbsp;Eom&fontSize=40&fontColor=F6F6F6&animation=twinkling" />
 
-
-<h2 align="center"> 📚 Tech Stack 📚 </h3>
-
-<div align="center">
-<p  align="center"> ✨ Languages & Platforms ✨ <br> <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <br>
-<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>  
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white"/>
-<img src="https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=PhpStorm&logoColor=white"/>
-
-
-  
-</div>
- -->
 <!--
 **yunieom/yunieom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,27 +19,15 @@ Here are some ideas to get you started:
 
 <div align="">
   
-<!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=10"/>
-   -->
- 
-<!--   <a href="https://solved.ac/whkakrkr"><img alt="solved.ac" align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr"/></a>
-   -->
   
 <a href="https://github.com/ChangHyun92/github-readme-stats">
   <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=ChangHyun92&show_icons=true&theme=neon&rank_icon=github" />
 </a>
-
-
-  <!--      <img align="right" src="http://mazandi.herokuapp.com/api?handle=whkakrkr&theme=warm"/> -->
-<!--   <img align="right" height="150" src="https://user-images.githubusercontent.com/75469131/212619424-d67608f0-5c14-48e1-b2a4-3ebcc2bdd631.png"> -->
-<!--    <img align="right" height="150" src="https://user-images.githubusercontent.com/75469131/212620177-077ec052-2e69-49f8-b227-47e06b8b3b3e.JPG"> -->
-<!--   <img align="right" height="150" src="https://user-images.githubusercontent.com/75469131/212619049-6d2e4504-628f-4dc2-b045-e581303829fc.gif" />-->
   
-  ## ChangHyun Kim
+  ## ChangHyun Kim  : )
 
-  <!--   <img align="right" height="100" src="https://user-images.githubusercontent.com/75469131/213887495-9953614d-3516-4781-98a2-17908e379c4f.gif" />-->
-  <a href="https://kimchanghyun.tistory.com"><img src="https://img.shields.io/badge/changhyun.log-3DDC84?style=for-the-badge&logo=tistory&logoColor=white"/></a> 
-  <a href="https://early-flock-0c8.notion.site/Yuni-Eom-933231dac8f946b9b4ce62bac883b5fa?pvs=4">
+ &nbsp;&nbsp; &nbsp;<a href="https://kimchanghyun.tistory.com"><img src="https://img.shields.io/badge/changhyun.log-3DDC84?style=for-the-badge&logo=tistory&logoColor=white"/></a> 
+  <a href="https://www.notion.so/ChangHyun-Kim-f77881a2c0804a83b95b95ffde941880">
   <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=notion&logoColor=black"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="bottom" width="100" src="https://user-images.githubusercontent.com/130543414/283773842-aab8112f-e24a-4f42-86ea-04df4ac2926b.gif"/>
 
@@ -71,16 +35,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>  
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-F05032?style=flat&logo=postgre&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logoGitHub&logoColor=white" />
-
-
-<!--
- <a href="https://www.instagram.com/dev_seondal/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a> <a href="mailto:sseondal@gmail.com"><img src="https://img.shields.io/badge/mail to me-557AF2?style=plastic&logo=Gmail&logoColor=white"/></a>
-  -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/postgreSQL-289ddf?style=flat&logo=postgreSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-E34F26?style=flat&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Postman-f05032?style=flat&logo=postman&logoColor=white" />
+<br> 
+<a href="kchangh92@gmail.com"><img align="bottom" width="150" src="https://img.shields.io/badge/mail to me-0a3711?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </div>
