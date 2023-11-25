@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 <br>
 <img src="https://img.shields.io/badge/Postman-f05032?style=flat&logo=postman&logoColor=white" />
 <br> 
-<a href="kchangh92@gmail.com"><img align="bottom" width="150" src="https://img.shields.io/badge/mail to me-0a3711?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:kchangh92@gmail.com"><img align="bottom" width="150" src="https://img.shields.io/badge/mail to me-0a3711?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </div>
