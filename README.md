@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 </a>
   
   ## ChangHyun Kim  : )
-<a href="https://www.notion.so/ChangHyun-Kim-f77881a2c0804a83b95b95ffde941880"></a><br>
+<a href="https://www.notion.so/ChangHyun-Kim-f77881a2c0804a83b95b95ffde941880">
+<img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=notion&logoColor=black"/></a><br>
 <a href="https://kimchanghyun.tistory.com"><img src="https://img.shields.io/badge/changhyun.log-3DDC84?style=for-the-badge&logo=tistory&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=notion&logoColor=black"/></a>
 <img align="bottom" width="130" src="https://user-images.githubusercontent.com/130543414/283773842-aab8112f-e24a-4f42-86ea-04df4ac2926b.gif"/>
 
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
   ---
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeonsi93">
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kch921019">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>  
@@ -48,7 +48,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Postman-f05032?style=flat&logo=postman&logoColor=white" />
-<br> 
+<br>
+<br>
+<br>
 <a href="mailto:kchangh92@gmail.com"><img align="bottom" width="150" src="https://img.shields.io/badge/mail to me-0a3711?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </div>
