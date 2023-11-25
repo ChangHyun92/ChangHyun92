@@ -26,12 +26,14 @@ Here are some ideas to get you started:
   
   ## ChangHyun Kim  : )
 
- &nbsp;&nbsp; &nbsp;<a href="https://kimchanghyun.tistory.com"><img src="https://img.shields.io/badge/changhyun.log-3DDC84?style=for-the-badge&logo=tistory&logoColor=white"/></a> 
-  <a href="https://www.notion.so/ChangHyun-Kim-f77881a2c0804a83b95b95ffde941880">
-  <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=notion&logoColor=black"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="bottom" width="100" src="https://user-images.githubusercontent.com/130543414/283773842-aab8112f-e24a-4f42-86ea-04df4ac2926b.gif"/>
+<a href="https://kimchanghyun.tistory.com"><img src="https://img.shields.io/badge/changhyun.log-3DDC84?style=for-the-badge&logo=tistory&logoColor=white"/></a> 
+<a href="https://www.notion.so/ChangHyun-Kim-f77881a2c0804a83b95b95ffde941880">
+<img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=notion&logoColor=black"/></a>
+<img align="bottom" width="100" src="https://user-images.githubusercontent.com/130543414/283773842-aab8112f-e24a-4f42-86ea-04df4ac2926b.gif"/>
+
 
   ---
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yeonsi93">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>  
