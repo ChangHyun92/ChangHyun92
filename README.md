@@ -27,8 +27,8 @@ Here are some ideas to get you started:
   ## ChangHyun Kim  : )
 <a href="https://www.notion.so/ChangHyun-Kim-f77881a2c0804a83b95b95ffde941880">
 <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=notion&logoColor=black"/></a><br>
-<a href="https://kimchanghyun.tistory.com"><img src="https://img.shields.io/badge/changhyun.log-3DDC84?style=for-the-badge&logo=tistory&logoColor=white"/></a>
-<img align="bottom" width="130" src="https://user-images.githubusercontent.com/130543414/283773842-aab8112f-e24a-4f42-86ea-04df4ac2926b.gif"/>
+<a href="https://kimchanghyun.tistory.com"><img src="https://img.shields.io/badge/changhyun.log-3DDC84?style=for-the-badge&logo=tistory&logoColor=white"/></a><br>
+<img align="bottom" width="110" src="https://user-images.githubusercontent.com/130543414/283773842-aab8112f-e24a-4f42-86ea-04df4ac2926b.gif"/>
 
 
 
