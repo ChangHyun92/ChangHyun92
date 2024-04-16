@@ -36,10 +36,12 @@ Here are some ideas to get you started:
 
 
   ---
-<img src="https://img.shields.io/badge/Java-339933?style=flat&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-339933?style=flat&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jpa-E34F26?style=flat&logo=jpa&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-E34F26?style=flat&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
+<br>
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>  
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/postgreSQL-289ddf?style=flat&logo=postgreSQL&logoColor=white"/>
