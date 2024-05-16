@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=ChangHyun92&show_icons=true&theme=neon&rank_icon=github" />
 </a>
   
-  ## ChangHyun Kim  : )<br>
+  ### ChangHyun Kim  : )
 <a href="https://www.notion.so/ChangHyun-Kim-f77881a2c0804a83b95b95ffde941880](https://www.notion.so/changhyunkim/Backend-Developer-8875cd6a5a0e4b8da28373d9267c9b0f">
 <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=notion&logoColor=black"/></a><br>
 <!-- <a href="https://kimchanghyun.tistory.com"><img src="https://img.shields.io/badge/changhyun.log-3DDC84?style=for-the-badge&logo=tistory&logoColor=white"/></a><br> -->
